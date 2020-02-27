@@ -1,0 +1,92 @@
+header{
+    /*background: #0BF58B;*/
+    clear: both;
+    border: 2px solid #0BF5C4;
+    border-radius: 20px 10px 20px 10px;
+    text-shadow: 1px 2px #000000;
+    box-shadow: 3px 5px;
+      }
+
+img{
+   transform: translateX(900px);
+   border-radius: 15px 15px 15px 15px;
+   box-shadow: 3px 5px;
+   width: 420px;
+   
+   }
+
+h1{
+  color: #FFF;
+  text-align: center;
+  font-style: oblique;
+  }
+
+body {
+    /*background: #F5D90B; /*Color de fondo*/
+    background: url(../Imagenes/154827.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size:cover;
+    color: black; /*Color de letra*/
+    border-radius: 50px; /*Bordes*/
+     }
+
+section{
+    text-align: left;
+    font-family: monospace 20px;
+    box-shadow: rgb (150,150,150) 5px 5px inset;
+       }
+
+p{
+ color: aliceblue;
+ float:none;
+}
+
+/*.caja_lateral{
+    position: absolute;
+    top: ;
+    bottom: 415px;
+    left: 1180px ;
+    right: ;
+    color: azure;
+}*/
+
+.referencia{
+    border-style: hidden;
+    border-color: aqua;
+    border-radius: 2px;
+    color: azure;
+}
+
+aside{
+    font-family: inherit;
+}
+
+ul{
+    background: none;
+    border-style: groove;
+    border-color: aqua;
+    border-radius: 5px; 
+    color: aqua;
+}
+
+p0{
+   border-radius: 15px; 
+   margin-bottom: 15 px;
+   font-family: fantasy;
+    color: cornsilk; 
+  }
+em0{
+    color: cornsilk;
+    font-family: cursive;
+}
+
+footer{
+    clear:both;
+    text-align: left;
+    padding: 5px;
+    margin: 5px auto;
+    border-top: 2px solid #000000;
+    color: #FFFFFF;
+    transform: perspective(30 deg);
+      }
